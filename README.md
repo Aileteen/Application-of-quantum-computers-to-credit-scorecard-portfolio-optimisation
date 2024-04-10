@@ -1,1 +1,0 @@
-# Application-of-quantum-computers-to-credit-scorecard-portfolio-optimisation
